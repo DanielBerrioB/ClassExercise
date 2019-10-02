@@ -17,7 +17,7 @@ describe("Unit testing the / route", function() {
       .get("/")
       .then(function(response) {
         expect(response.text).to.contain(
-          "<h1>Express</h1><p>Welcome >>> to Express</p>"
+          "<h1>Express</h1><p>Welcome >>> to Expres</p>"
         );
       });
   });
