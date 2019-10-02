@@ -1,3 +1,1 @@
-# sampleCI
-sampleCI
-Sample CI for Class
+# Ejemplo de clase
